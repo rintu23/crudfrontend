@@ -1,5 +1,5 @@
 
-import { Form, Table } from 'react-bootstrap';
+
 import './App.css';
 import Forms from './Forms';
 import Tables from './Tables';
