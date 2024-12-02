@@ -1,0 +1,14 @@
+*{
+    margin: 0%;
+    padding: 0%;
+  }
+  .container{
+    height: 80vh;
+    width: 40%;
+    background-color: aqua;
+    margin-top: 10px;
+    border-radius: 15px;
+  }
+  #employeeName{
+    margin-top: 3%;
+  }

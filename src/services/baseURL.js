@@ -1,0 +1,1 @@
+export const baseURL = "https://crudjson-79s3.onrender.com"
