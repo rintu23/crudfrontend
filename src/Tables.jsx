@@ -34,13 +34,13 @@ function Tables() {
         <th>Email</th>
         <th>Salary</th>
         <th>Designation</th>
-        <th scope='col'>Actions</th>
+        <th>Actions</th>
       </tr>
     </thead>
     <tbody>
      { data.map((data)=>(
          <tr>
-         <td scope="row">{data.id}</td>
+         <td >{data.id}</td>
          <td>{data.name}</td>
          <td>{data.email}</td>
          <td>{data.salary}</td>
