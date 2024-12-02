@@ -29,11 +29,11 @@ function Tables() {
          <table class="table">
     <thead>
       <tr>
-        <th scope="col">id</th>
-        <th scope="col">Employee Name</th>
-        <th scope="col">Email</th>
-        <th scope="col">Salary</th>
-        <th scope="col">Designation</th>
+        <th>id</th>
+        <th>Employee Name</th>
+        <th>Email</th>
+        <th>Salary</th>
+        <th>Designation</th>
         <th scope='col'>Actions</th>
       </tr>
     </thead>
